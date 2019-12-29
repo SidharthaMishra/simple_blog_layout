@@ -45,6 +45,13 @@ a:hover{
     right:0px;
     padding:8px;
     font-weight:bold;
+    max-width:40%;
+    margin-left:20px;
+    font-size:0.8em;
+}
+.subheading{
+    max-width:55%;
+    margin-right:10px;
 }
 .container{
     width:1140px;
