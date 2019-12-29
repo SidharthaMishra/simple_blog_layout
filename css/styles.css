@@ -6,6 +6,8 @@
 body{
     font-family: Helvetica Neue, Arial, sans-serif;
     font-size: 18px;
+    display:flex;
+    width:100%;
 }
 h1,h2,h3{
     color:#265cb2;
@@ -67,7 +69,6 @@ a:hover{
 .author-box{
     padding:10px;
     clear:both;
-    width:100%;
     min-height:50px;
 }
 .author-box img{
@@ -83,6 +84,6 @@ a:hover{
     margin-top:45px;
 }
 hr{
-    width:100%;
     color:gray;
+    width:100%;
 }
