@@ -21,6 +21,9 @@ a{
     text-decoration: none;
     margin:10px;
 }
+a:hover{
+    text-decoration:underline;
+}
 .main-text{
     text-align:justify;
     margin:20px 5px 20px 10px;
