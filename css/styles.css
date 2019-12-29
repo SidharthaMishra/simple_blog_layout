@@ -76,6 +76,7 @@ a:hover{
     width:auto;
     margin:15px;
     float:left;
+    border-radius:50%;
 }
 .author-info{
     font-weight:bold;
