@@ -66,11 +66,18 @@ a{
     clear:both;
     width:100%;
     min-height:50px;
-    display:inline-block;
+}
+.author-box img{
+    height:100px;
+    width:auto;
+    margin:15px;
+    float:left;
 }
 .author-info{
-    margin-left:10%;
+    font-weight:bold;
     padding:15px;
+    float:left;
+    margin-top:45px;
 }
 hr{
     width:100%;
