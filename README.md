@@ -18,11 +18,13 @@
 
 - HTML
 - CSS
+- Google Fonts
 - Markdown
 - Brackets/Atom
 - Chrome Dev Tools
 - Pexels: Blog Image (Photo by Miguel Á. Padriñán from Pexels)
-- Lego User Avatar: https://randomuser.me/
+- Lego Author Avatar: https://randomuser.me/
+- Placeholder Text: https://www.lipsum.com/
 
 ---
 
