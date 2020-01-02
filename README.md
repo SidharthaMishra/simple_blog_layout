@@ -4,13 +4,8 @@
 ### This project features a simple blog page layout created using HTML and CSS.
 ---
 
-![Blog Screenshot ](docs_assets/blog_screenshot_1.png)
+![Blog Screenshot ](docs_assets/blog_screenshot.png)
 *Blog Screenshot*
-
-
-![Blog Screenshot](docs_assets/blog_screenshot_2.png)
-*Blog Screenshot*
-
 
 ---
 
